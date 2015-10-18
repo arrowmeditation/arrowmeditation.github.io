@@ -6,6 +6,10 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
+Meditation non profit webpage. 
+Bootstrap and interactive about page.
+
+
 
 Hi there! Welcome to Cloud9 IDE!
 
