@@ -322,6 +322,8 @@ body > section {
 	top: -3px;
 }
 */
+/* TO ADD SLIDER INDICATOR BULLETS BELOW SLIDER */
+/* UNCOMMENT THE ABOVE 4 main-slider STYLES AND REPLACE THE 4 BELOW main-slider STYLES */
 #main-slider .carousel-indicators li {
 	width: 0px;
 	height: 0px;
