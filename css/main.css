@@ -287,8 +287,8 @@ body > section {
 	right: 10px;
 }
 #main-slider .carousel-indicators li {
-	width: 14px;
-	height: 14px;
+	width: 0px;
+	height: 0px;
 	margin: 0 15px 0 0;
 	position: relative;
 }
@@ -303,8 +303,8 @@ body > section {
 	top: -3px;
 }
 #main-slider .carousel-indicators .active {
-	width: 14px;
-	height: 14px;
+	width: 0px;
+	height: 0px;
 	background-color: #fff;
 	margin: 0 15px 0 0;
 	border: 1px solid #3498db;
