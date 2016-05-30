@@ -205,14 +205,14 @@ body > section {
 	margin-top: 30px;
 }
 #main-slider .carousel .logo {
-/*	font-weight: 600;
+	font-weight: 600;
 	margin: 20px 0;
 	padding: 0 10px;
 	border-radius: 10px;
 	border: 1px solid #9bcaec;
 	border-bottom: 0;
 	border-right: 0;
-	box-shadow: 6px 3px #ddd;*/
+	box-shadow: 6px 3px #ddd;
 }
 #main-slider .carousel .logo i {
 	color: #3498db;
@@ -302,7 +302,7 @@ body > section {
 	left: -3px;
 	top: -3px;
 }
-#main-slider .carousel-indicators .active {
+/*#main-slider .carousel-indicators .active {
 	width: 14px;
 	height: 14px;
 	background-color: #fff;
@@ -320,7 +320,7 @@ body > section {
 	border: 1px solid #3498db;
 	left: -3px;
 	top: -3px;
-}
+}*/
 #feature {
 	background: #f2f2f2;
 	padding-bottom: 40px;
