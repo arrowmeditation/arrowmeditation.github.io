@@ -257,7 +257,8 @@ body > section {
 	position: absolute;
 	width: 100%;
 	display: block !important;
-	height: 640px;
+	height: 800px;
+/*	height: 640px;*/
 	-webkit-transition: opacity ease-in-out 500ms;
 	-moz-transition: opacity ease-in-out 500ms;
 	-o-transition: opacity ease-in-out 500ms;
