@@ -244,7 +244,7 @@ body > section {
 	display: inline-block;
 }
 .carousel-inner {
-	height: 800px;
+	height: 85%;
 	/*height: 640px;*/
 }
 #main-slider .carousel .item {
@@ -257,7 +257,7 @@ body > section {
 	position: absolute;
 	width: 100%;
 	display: block !important;
-	height: 800px;
+	height: 85%;
 /*	height: 640px;*/
 	-webkit-transition: opacity ease-in-out 500ms;
 	-moz-transition: opacity ease-in-out 500ms;
