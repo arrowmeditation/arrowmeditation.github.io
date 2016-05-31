@@ -185,6 +185,11 @@ body > section {
 	    background-color: #00BEFF;
 	color: #fff;
 }
+.navbar-inverse .navbar-nav > .active-ol > a, .navbar-inverse .navbar-nav > .active-ol > a:hover, .navbar-inverse .navbar-nav > .active-ol > a:focus, .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+	    background-color: #FFF;
+	border: solid #00BEEF 1px;
+	color: #fff;
+}
 /*************************
 *******Home Page******
 **************************/
