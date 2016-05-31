@@ -193,6 +193,10 @@ body > section {
 /*************************
 *******Home Page******
 **************************/
+.special-ol {
+	border: solid #00BEEF 1px;
+	border-radius: 6px;
+}	
 #main-slider {
 	position: relative;
 	text-align: center;
