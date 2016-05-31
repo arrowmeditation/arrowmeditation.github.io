@@ -424,14 +424,12 @@ body > section {
 }
 .recent-work-wrap img {
 	width: 100%;
-	height: 100%;
 }
 .recent-work-wrap .recent-work-inner {
 	top: 0;
 	background: transparent;
 	opacity: 1;
 	width: 100%;
-	height: 100%;
 	border-radius: 0;
 	margin-bottom: 0;
 	text-align: center;
