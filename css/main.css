@@ -245,6 +245,7 @@ body > section {
 }
 .carousel-inner {
 	height: 800px;
+	margin-top: 64px;
 	/*height: 640px;*/
 }
 #main-slider .carousel .item {
