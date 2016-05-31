@@ -211,11 +211,11 @@ body > section {
 }
 #main-slider .carousel .carousel-content {
 /*	margin-top: 150px;*/
-	margin-top: 164px;
+	margin-top: 0px;
 }
 #main-slider .carousel .slide-margin {
 /*	margin-top: 100px;*/
-	margin-top: 100px;
+	margin-top: 0px;
 }
 #main-slider .carousel .logo {
 	font-weight: 600;
