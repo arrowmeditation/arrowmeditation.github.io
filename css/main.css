@@ -405,7 +405,7 @@ body > section {
 .feature-wrap h2 {
 	margin-top: 10px;
 }
-.feature-wrap p {
+.left {
 	text-align: left;
 }
 .feature-wrap .pull-left {
