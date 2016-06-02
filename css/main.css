@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar-toggle {
 
-    background-color: #317ABE;
+    background-color: #42E7BC;
 	}
 	img {
     vertical-align: middle;
@@ -61,14 +61,14 @@ hr {
 }
 .btn-primary {
 	padding: 8px 20px;
-	background: #00BEFF;
+	background: #42B7EC;
 	color: #fff;
 	border-radius: 4px;
 	border: none;
 	margin-top: 10px;
 }
 .btn-primary:hover, .btn-primary:focus {
-	background: ##00BEFF;
+	background: #42B7EC;
 	outline: none;
 	box-shadow: none;
 }
@@ -165,7 +165,7 @@ body > section {
 	display: inline-block;
 }
 .navbar-inverse .navbar-nav > li > a:hover {
-	background-color: #00BEFF
+	background-color: #42B7EC;
 ;
 	color: #fff;
 }
@@ -179,15 +179,15 @@ body > section {
 	color: #fff;
 }
 .navbar-inverse .navbar-brand .fa {
-	color: #00BEFF;
+	color: #42B7Ec;
 }
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
-	    background-color: #00BEFF;
+	    background-color: #42B7EC;
 	color: #fff;
 }
 .navbar-inverse .navbar-nav > .active-ol > a, .navbar-inverse .navbar-nav > .active-ol > a:hover, .navbar-inverse .navbar-nav > .active-ol > a:focus, .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
 	    background-color: #FFF;
-	border: solid #00BEEF 1px;
+	border: solid #42B7EC 1px;
 	color: #4e4e4e;
 }
 /*************************
@@ -197,7 +197,7 @@ body > section {
 	margin: auto;
 	padding: 20px;
 	width: 85%;
-	border: solid #00BEEF 1px;
+	border: solid #42B7EC 1px;
 	border-radius: 6px;
 	display: inline-block;
 }	
@@ -237,7 +237,7 @@ body > section {
 }
 #main-slider .carousel .btn-slide {
 	padding: 8px 20px;
-	background: #00BEFF;
+	background: #42B7EC;
 	color: #fff;
 	border-radius: 4px;
 	margin-top: 25px;
