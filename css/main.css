@@ -10,9 +10,14 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Open Sans', sans-serif;
 	color: #4e4e4e;
 }
+/* 
+******COLOR CHANGES******
+C0BEFF = bright blue for buttons, changed to 42B7EC
+line 20: 317ABE changed to 42B7EC
+*/
 .navbar-toggle {
 
-    background-color: #42E7BC;
+    background-color: #42B7EC;
 	}
 	img {
     vertical-align: middle;
